@@ -20,15 +20,15 @@
     ["photos/dhanush.jpg", "dhanush"]
   ],
   "email": {
-    "sender": "kumarsarath6246@gmail.com",
-    "password": "nyhmoalbkiwvjgbk",
-    "receiver": "unknown012045@gmail.com"
+    "sender": "xxxxxxxxxxxx@gmail.com",
+    "password": "xxxxxxxxxxxxxxxx",
+    "receiver": "yyyyyyyyyyyyyyyyyy@gmail.com"
   },
   "parent_emails": {
-    "siva": "sivakumarvenkatesan513@gmail.com",
-    "sarath": "unknown012045@gmail.com",
-    "divya": "unknown012045@gmail.com",
-    "dhanush": "kumardhanush943@gmail.com"
+    "siva": "aaaaaaaaaaaaaaa@gmail.com",
+    "sarath": "bbbbbbbbbbbbbbbb@gmail.com",
+    "divya": "cccccccccccccccc@gmail.com",
+    "dhanush": "dddddddddddddddd@gmail.com"
   },
   "time_limit": 60
 }
