@@ -8,7 +8,7 @@ language and relies on several powerful libraries like face_recognition for reco
 OpenCV for capturing and processing video, Pandas for managing attendance data, and
 smtplib for sending email notifications. 
 
-The system is designed to work in real-time and is
+The system is designed to work in real-time and is 
 fully automated, making it a convenient tool for schools or colleges.The system works by
 first loading a list of known students' faces and their names from a configuration file
 (config.json). 
