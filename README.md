@@ -1,3 +1,5 @@
+PROJECT TITLE: "Face Recognition & Attendance System"
+
 This project is an automated attendance system that uses facial recognition technology
 to make attendance tracking easier and faster. 
 
